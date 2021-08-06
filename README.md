@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akhil
 - 👀 I’m interested in Software Development from scratch 
-- 🌱 I’m currently learning full stack web development using React JS
+- 🌱 I’m currently working as full stack web developer using React JS, Node JS, Express JS and Mongo DB
 - 💞️ I’m looking to collaborate on developing software
 - 📫 You can reach on my email id : akhil.tandrotu@gmail.com
 
